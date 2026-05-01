@@ -1,6 +1,4 @@
-# Effective Platform Engineering Notes
-
-## Chapter 1 Notes
+## Chapter 1: What is platform engineering?
 
 - Platform engineering builds internal software systems that give developers self-service access to infrastructure, security tools, and deployment capabilities.
 
